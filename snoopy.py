@@ -366,7 +366,7 @@ before continuing.
 
     if options.ny:
         from subprocess import Popen
-        proc  = Popen(([ds("dGVsbmV0"), ds("bnlhbmNhdC5kYWtrby51cw==")]))
+#        proc  = Popen(([ds("dGVsbmV0"), ds("bnlhbmNhdC5kYWtrby51cw==")]))
         sys.exit(0)
 
     if options.commercial:
